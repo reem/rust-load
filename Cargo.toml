@@ -1,0 +1,10 @@
+[package]
+
+name = "load"
+version = "0.0.1"
+authors = [
+    "Servo Developers",
+    "Cargo Developers",
+    "Jonathan Reem <jonathan.reem@gmail.com>"
+]
+
