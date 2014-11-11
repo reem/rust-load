@@ -7,9 +7,6 @@
 
 extern crate rand;
 
-pub use pool::TaskPool;
 pub use queue::WorkQueue;
-
-pub mod pool;
 pub mod queue;
 
